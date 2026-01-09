@@ -1,3 +1,5 @@
+# Week 4: UI/UX improvements for FactoryGuard AI Streamlit app
+
 import streamlit as st
 import numpy as np
 import joblib
