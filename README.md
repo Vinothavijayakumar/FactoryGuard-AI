@@ -49,6 +49,13 @@ The Predictive Maintenance Dashboard is an interactive web application designed 
 
 ![image](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment/assets/77683536/440bea1b-1a6e-40ce-a106-cbe0f475e7c8)
 
+<img width="782" height="401" alt="image" src="https://github.com/user-attachments/assets/6124633e-7edb-449e-b33d-baced40497b7" />
+
+<img width="815" height="398" alt="image" src="https://github.com/user-attachments/assets/c9012ef5-ab01-48a7-bdd3-0bd712c59eb6" />
+
+<img width="875" height="385" alt="image" src="https://github.com/user-attachments/assets/b2b7ebb1-c46f-486d-a97f-569285911362" />
+
+
 
 
 
