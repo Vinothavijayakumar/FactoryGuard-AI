@@ -33,22 +33,6 @@ The Predictive Maintenance Dashboard is an interactive web application designed 
 3. Follow the on-screen instructions to interact with the application, submit input data, and view predictions.
 
 
-![image](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment/assets/77683536/9f46c40f-eb92-4b75-9e5d-2605258f00bc)
-
-![image](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment/assets/77683536/587463f2-f741-42c4-b4f8-3c62f6a9fde6)
-
-![image](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment/assets/77683536/02a71a6e-3993-4507-9905-d028879f380c)
-
-![image](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment/assets/77683536/f23c6a82-db94-496c-8a56-d84ce3c3274b)
-
-![image](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment/assets/77683536/eaa2b499-2691-4828-825a-91346737b507)
-
-![image](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment/assets/77683536/88303e44-acde-45cf-bfba-d8b51018f34b)
-
-![image](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment/assets/77683536/16c834df-bf50-4d2c-ae70-21f2c1b3800f)
-
-![image](https://github.com/rohanmatt/Predictive-Maintenance-for-Industrial-Equipment/assets/77683536/440bea1b-1a6e-40ce-a106-cbe0f475e7c8)
-
 <img width="782" height="401" alt="image" src="https://github.com/user-attachments/assets/6124633e-7edb-449e-b33d-baced40497b7" />
 
 <img width="815" height="398" alt="image" src="https://github.com/user-attachments/assets/c9012ef5-ab01-48a7-bdd3-0bd712c59eb6" />
