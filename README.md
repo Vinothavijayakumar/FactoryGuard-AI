@@ -9,9 +9,9 @@ The Predictive Maintenance Dashboard is an interactive web application designed 
 3. **Results:** Display predictions for remaining useful life (RUL), maintenance status, and anomaly detection based on the input data.
 
 ## Technologies Used
-Python – Core programming language
-Pandas & NumPy – Time-series data processing and feature engineering
-Matplotlib & Seaborn – Sensor data visualization
+- **Python – Core programming language
+- **Pandas & NumPy – Time-series data processing and feature engineering
+- **Matplotlib & Seaborn – Sensor data visualization
 scikit-learn – Baseline modeling, preprocessing, evaluation
 XGBoost / LightGBM – Production-grade predictive models
 imbalanced-learn – Handling extreme class imbalance (SMOTE / class weights)
@@ -28,10 +28,8 @@ GitHub – Version control and collaboration
 1. Launch the application using the provided installation instructions.
 2. Navigate through the different sections using the sidebar menu:
    - **Home:** Provides a brief introduction to the application.
-   - **Historical Data:** Displays historical sensor data and operational hours.
    - **Input Data:** Allows users to submit input data for prediction.
    - **Results:** Shows predictions for RUL, maintenance status, and anomaly detection based on the input data.
-   - **Visualizations:** Visualizes historical data and optionally overlays generated input values.
 3. Follow the on-screen instructions to interact with the application, submit input data, and view predictions.
 
 
