@@ -1,4 +1,4 @@
-# Predictive Maintenance Dashboard Documentation
+# Predictive Maintenance Documentation
 
 ## Introduction
 The Predictive Maintenance Dashboard is an interactive web application designed to provide insights into predictive maintenance for industrial machinery. It offers features for home page, input data submission, and prediction results.
@@ -12,15 +12,15 @@ The Predictive Maintenance Dashboard is an interactive web application designed 
 - **Python – Core programming language
 - **Pandas & NumPy – Time-series data processing and feature engineering
 - **Matplotlib & Seaborn – Sensor data visualization
-scikit-learn – Baseline modeling, preprocessing, evaluation
-XGBoost / LightGBM – Production-grade predictive models
-imbalanced-learn – Handling extreme class imbalance (SMOTE / class weights)
-SHAP – Model explainability and trust
-Joblib – Model and pipeline serialization
-Flask – Real-time prediction API
-GitHub – Version control and collaboration
+- **scikit-learn – Baseline modeling, preprocessing, evaluation
+- **XGBoost / LightGBM – Production-grade predictive models
+- **imbalanced-learn – Handling extreme class imbalance (SMOTE / class weights)
+- **SHAP – Model explainability and trust
+- **Joblib – Model and pipeline serialization
+- **Flask – Real-time prediction API
+- **GitHub – Version control and collaboration
 ## Installation
-1. Clone the repository from GitHub: `git clone https://github.com/your_username/predictive-maintenance-dashboard.git`
+1. Clone the repository from GitHub: `git clone https://github.com/your_username/FactoryGuard-AI.git
 2. Install the required Python packages: `pip install -r requirements.txt`
 3. Run the Streamlit application: `streamlit run app.py`
 
