@@ -1,7 +1,7 @@
 # Predictive Maintenance Dashboard Documentation
 
 ## Introduction
-The Predictive Maintenance Dashboard is an interactive web application designed to provide insights into predictive maintenance for industrial machinery. It offers features for data visualization, historical data analysis, input data submission, and prediction results.
+The Predictive Maintenance Dashboard is an interactive web application designed to provide insights into predictive maintenance for industrial machinery. It offers features for home page, input data submission, and prediction results.
 
 ## Features
 1. **Home:** Welcome page providing an overview of the application.
